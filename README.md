@@ -9,7 +9,7 @@ Made with [api2cli.dev](https://api2cli.dev).
 ## Install
 
 ```bash
-npx api2cli install <user>/n8n-cli
+npx api2cli install Nardjo/n8n-cli
 ```
 
 This clones the repo, builds the CLI, links it to your PATH, and installs the AgentSkill to your coding agents.
